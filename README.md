@@ -18,8 +18,6 @@ Frontend:
 
 -Redux / Context API for state management
 
--Chart.js / Recharts for data visualization
-
 Backend:
 
 -Node.js (Express.js)
