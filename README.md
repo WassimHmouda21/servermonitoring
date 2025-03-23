@@ -1,6 +1,6 @@
 # **server monitoring**
 
-This project is a full-stack monitoring web application developed by a team to track server performance and health. The application provides live monitoring states with graphs and statistical tables, ensuring real-time insights into the server's condition.
+This project is a full-stack monitoring web application to track server performance and health. The application provides live monitoring states with graphs and statistical tables, ensuring real-time insights into the server's condition.
 
 ## **Features**
 
@@ -16,7 +16,7 @@ This project is a full-stack monitoring web application developed by a team to t
 
 Frontend:
 
--React.js (JavaScript/TypeScript)
+-React.js (JavaScript)
 
 -Redux / Context API for state management
 
