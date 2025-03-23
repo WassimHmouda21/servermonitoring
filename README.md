@@ -1,12 +1,10 @@
 # **server monitoring**
 
-This project is a full-stack monitoring web application to track server performance and health. The application provides live monitoring states with graphs and statistical tables, ensuring real-time insights into the server's condition.
+This project is a full-stack monitoring web application to track server performance and health. The application provides live monitoring states with statistical tables, ensuring real-time insights into the server's condition.
 
 ## **Features**
 
 -Live Server Monitoring – Track real-time server performance.
-
--Graphs & Charts – Visualize data for better insights.
 
 -Statistics Tables – View summarized server metrics.
 
