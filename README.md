@@ -1,0 +1,35 @@
+# **server monitoring**
+
+This project is a full-stack monitoring web application developed by a team to track server performance and health. The application provides live monitoring states with graphs and statistical tables, ensuring real-time insights into the server's condition.
+
+## **Features**
+
+-Live Server Monitoring – Track real-time server performance.
+
+-Graphs & Charts – Visualize data for better insights.
+
+-Statistics Tables – View summarized server metrics.
+
+-Full Stack Implementation – Built with modern technologies.
+
+## **Tech Stack**
+
+Frontend:
+
+-React.js (JavaScript/TypeScript)
+
+-Redux / Context API for state management
+
+-Chart.js / Recharts for data visualization
+
+Backend:
+
+-Node.js (Express.js)
+
+-WebSockets for real-time updates
+
+Database:
+
+-MongoDB (Mongoose for ODM)
+
+MongoDB (Mongoose for ODM)
